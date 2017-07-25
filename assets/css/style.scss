@@ -5,12 +5,11 @@
 body{
   direction:rtl;
   text-align:right;
-  unicode-bidi:isolate;
-  font-family: Arial;
+  font-family: "Arial";
 }
 
 .main-content p {
-  font-family: tahoma;
+  font-family: "tahoma";
 }
 
 @media screen and (min-width:64em){
