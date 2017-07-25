@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## مرحبا يا مطور, او يا صاحب البزنس الجديد
 
-You can use the [editor on GitHub](https://github.com/6degrees/application-development-checklist/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+أكيد إنك متحمس لتطبيقك الجديد اللي ممكن يكون بداية نجاحك في عالم البزنس الإلكتروني. هذا المستودع تم إنشاءه عشان نسجل فيه الأشياء اللي يحتاج الشخص يفكر فيها لما يجي يسوي تطبيق جديد. التركيز في هذا المستودع على الطلبات والأمور اللي لازم تنتبه لها عند التواصل مع شركة برمجة أو شخص بيبرمج لك, ولفريق العمل اللي شغالين على جانب الـ IT من البزنس حقك
+
+للمشاركة معنا أو التعديل, زور جزئية [المشاركة والحقوق](#المشاركة والحقوق) في أسفل الصفحة
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
