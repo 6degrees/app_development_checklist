@@ -6,4 +6,15 @@ body{
   direction:rtl;
   text-align:right;
   unicode-bidi:isolate;
+  font-family: Arial;
+}
+
+p {
+  font-family: tahoma;
+}
+
+@media screen and (min-width:64em){
+  .main-content {
+    font-size: 1rem;
+  }
 }
