@@ -1,0 +1,9 @@
+---
+---
+
+@import "{{ site.theme }}";
+body{
+  direction:rtl;
+  text-align:right;
+  unicode-bidi:isolate;
+}
