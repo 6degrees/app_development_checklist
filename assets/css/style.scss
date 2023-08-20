@@ -2,17 +2,16 @@
 ---
 
 @import "{{ site.theme }}";
+
+// Global body styling
 body{
   direction:rtl;
   text-align:right;
-  font-family: "Arial";
+  font-family: "Arial"; // Using consistent font-family
   line-height:1.8;
 }
 
-.main-content p, .main-content ul, .main-content ol {
-  font-family: "tahoma";
-}
-
+// Responsive design for larger screens
 @media screen and (min-width:64em){
   .main-content {
     font-size: 1rem;
